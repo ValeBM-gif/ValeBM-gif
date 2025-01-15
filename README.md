@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/POU01YSFVn8zK/giphy.gif" width=70%>
     <h1 align="center">Soy Vale:)</h1>
     <h3>
-        Soy estudiante de ingeniería en software en la Universidad Salle Bajío. Actualmente curso cuarto semestre.
+        Soy estudiante de ingeniería en software en la Universidad Salle Bajío. Actualmente curso octavo semestre.
     </h3>
 </div>
 
